@@ -82,8 +82,6 @@ namespace csharp_oop_shop
 			return this.codice;
 		}
 
-		
-
 
 		public void creaProdotto()
 		{
